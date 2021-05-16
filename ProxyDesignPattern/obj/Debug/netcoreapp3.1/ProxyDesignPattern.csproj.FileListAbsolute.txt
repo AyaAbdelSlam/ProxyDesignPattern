@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.exe
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+C:\Users\ahemaid\source\repos\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
